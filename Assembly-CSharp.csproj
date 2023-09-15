@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B1F6FDB2-0803-C730-5277-ECA839173147}</ProjectGuid>
+    <ProjectGuid>{4AF36B53-2C6E-BBF5-7442-3553810E50DE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -60,6 +60,9 @@
   <ItemGroup>
     <Compile Include="Assets\Script\CameraFollow.cs" />
     <Compile Include="Assets\Script\CharacterSwitch.cs" />
+    <Compile Include="Assets\Script\Playerhealth.cs" />
+    <Compile Include="Assets\Script\trap.cs" />
+    <Compile Include="Assets\Script\AccelerateFall.cs" />
     <Compile Include="Assets\Scenes\Playercontroller.cs" />
   </ItemGroup>
   <ItemGroup>
